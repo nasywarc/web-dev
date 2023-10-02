@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    background-color: #FEFDF9;
+    /* background-image: url(assets/logo-full.png); */
+}
+
+.menu {
+    display: flex;
+    gap: 4.5rem;
+    justify-content: center;
+    right: 15.8rem;
+    /* position: absolute; */
+    /* left: 18rem; */
+    /* justify-content: center; */
+}
+
+.option {
+    top: 3rem;
+    /* left: rem; */
+    text-decoration: none;
+    color: #726f6f;
+    font-family: 'Josefin Sans', sans-serif;
+    transition: 0.5s;
+    font-size: 1.2rem;
+    /* hover */
+    /* border: solid #FBCD5A 3px;
+    padding: 7px 20px;
+    border-radius: 42%; */
+}
+
+#ce_logo {
+    height: 2.5rem;
+    top: 2.5rem;
+}
+
+.main_text {
+    display: inline-block;
+    top: 12rem;
+    font-size: 1.8rem;
+    left: 16rem;
+    color: rgb(72, 67, 67);
+    font-family: 'Poppins', sans-serif;
+}
+
+.name_contact {
+    display: flex;
+    font-size: 0.9rem;
+    top: 3.5rem;
+    font-family: 'Poppins', sans-serif;
+    gap: 1rem;
+}
+
+#contact_down {
+    border: solid 2px #ba9e59;
+    border-radius: 50%;
+    padding: 38px 5px;
+    text-decoration: none;
+    font-size: 0.7rem;
+    bottom: 2.3rem;
+    opacity: 70%;
+    transition: 0.2s;
+    color: rgb(87, 87, 87);
+}
+
+.square {
+    width: 200px;
+    height: 200px;
+    /* background-color: #ba9e59; */
+}
+.right_side {
+    position: absolute;
+    /* float: right; */
+    display: inline-block;
+    right: 12rem;
+    top: 5.5rem;
+}
+
+.square_1 {
+    top: 10rem;
+    right: 5rem;
+    background-color: #f4d893;
+}
+
+.square_2 {
+    background-color: #efc14b;
+}
+/* .name {
+    font-size: 1.5rem;
+    top: 3.5rem;
+} */

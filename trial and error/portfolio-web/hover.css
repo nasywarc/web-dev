@@ -1,0 +1,11 @@
+.option:hover {
+    border: solid #fbd26a 1px;
+    color: #9c7c2b;
+    padding: 7px 20px;
+    border-radius: 42%;
+    top: 2.5rem;
+}
+
+#contact_down:hover {
+    opacity: 100%;
+}
